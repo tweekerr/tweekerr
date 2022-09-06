@@ -8,8 +8,8 @@
     <ul>
         <li>I'm 20 years old</li>
         <li>I'm Fullstack .Net/React Developer 
-            <img width="20px" src="./icons/dotnet.png"/>
-            <img width="20px" src="./icons/react-js.png"/>
+            <img width="20px" src="./media/icons/dotnet.png"/>
+            <img width="20px" src="./media/icons/react-js.png"/>
         </li>
         <li>
         NetHub (<a src="https://github.com/tweekerr/nethub-frontend">[Frontend]</a>, <a src="https://github.com/tweekerr/nethub-backend">[Backend]</a>)- It's my own project of Ukrainian IT Platform
@@ -51,7 +51,7 @@
         </div>
     </div>
     <hr/>
-    <div>
+    <div style="display: flex; flex-direction: column">
         <img src="./media/gifs/universe-stars.gif">
         <img width="250px" src="./media/icons/tweekerwhite.png">
     </div>
