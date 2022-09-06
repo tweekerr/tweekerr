@@ -1,22 +1,14 @@
+## Hi, I'm tweeker 💻
+
+- I'm 20 years old
+- I'm Fullstack .Net/React Developer <img width="20px" src="./media/icons/dotnet.png"/> <img width="20px" src="./media/icons/react-js.png"/>
+- NetHub ([Frontend](https://github.com/tweekerr/nethub-frontend), [Backend](https://github.com/tweekerr/nethub-backend))- It's my own project of Ukrainian IT Platform
+
+<br/>
+
 <div>
-    <h1 style="">
-        Hi, I'm tweeker 💻
-    </h1>
-    <h2>
-        A little about me:
-    </h2>
-    <ul>
-        <li>I'm 20 years old</li>
-        <li>I'm Fullstack .Net/React Developer 
-            <img width="20px" src="./media/icons/dotnet.png"/>
-            <img width="20px" src="./media/icons/react-js.png"/>
-        </li>
-        <li>
-        NetHub (<a src="https://github.com/tweekerr/nethub-frontend">[Frontend]</a>, <a src="https://github.com/tweekerr/nethub-backend">[Backend]</a>)- It's my own project of Ukrainian IT Platform
-        </li>
-    </ul>
     <div>
-        <h2>Technologies I use😎:</h2>
+        <h3>Technologies I use😎:</h3>
         <div>
             <img alt="csharp" width="32px" src="./media/icons/csharp.png">
             <img alt="dotnet" width="32px" src="./media/icons/dotnet.png">
@@ -55,6 +47,6 @@
         <img src="./media/gifs/universe-stars.gif">
     </div>
     <div>
-        <img width="250px" src="./media/icons/tweekerwhite.png">
+        <img width="200px" src="./media/icons/tweekerwhite.png">
     </div>
 </div>
