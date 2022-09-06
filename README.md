@@ -4,8 +4,6 @@
 - I'm Fullstack .Net/React Developer <img width="20px" src="./media/icons/dotnet.png"/> <img width="20px" src="./media/icons/react-js.png"/>
 - NetHub ([Frontend](https://github.com/tweekerr/nethub-frontend), [Backend](https://github.com/tweekerr/nethub-backend))- It's my own project of Ukrainian IT Platform
 
-<br/>
-
 <div>
     <div>
         <h3>Technologies I use😎:</h3>
