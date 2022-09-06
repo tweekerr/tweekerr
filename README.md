@@ -51,8 +51,10 @@
         </div>
     </div>
     <hr/>
-    <div style="display: flex; flex-direction: column">
+    <div>
         <img src="./media/gifs/universe-stars.gif">
+    </div>
+    <div>
         <img width="250px" src="./media/icons/tweekerwhite.png">
     </div>
 </div>
