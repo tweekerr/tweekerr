@@ -1,8 +1,9 @@
 ## Hi, I'm tweeker 💻
 
-- I'm 20 years old
+- I'm 21 years old
+- I have five years of programming experience
 - I'm Fullstack .Net/React Developer <img width="20px" src="./media/icons/dotnet.png"/> <img width="20px" src="./media/icons/react-js.png"/>
-- NetHub ([Frontend](https://github.com/tweekerr/nethub-frontend), [Backend](https://github.com/tweekerr/nethub-backend))- It's my own project of Ukrainian IT Platform
+- Based on my experience, I can quickly understand various technologies
 
 <div>
     <div>
